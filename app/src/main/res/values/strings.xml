@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">BookDepository</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="book_title_hint">Enter name of book </string>
+    <string name="book_title_label">Title</string>
+    <string name="book_details_label">Details</string>
+    <string name="book_readed_label">Read?</string>
+    <string name="date_picker_title">Reading start date:</string>
+    <string name="time_picker_title">Reading start time:</string>
+    <string name="new_book">New book</string>
+    <string name="show_subtitle">Show subtitle</string>
+    <string name="hide_subtitle">Hide subtitle</string>
+    <plurals name="subtitle_plural">
+        <item quantity="one">%1$d book</item>
+        <item quantity="few">%1$d books</item>
+        <item quantity="other">%1$d books</item>
+    </plurals>
+    <string name="delete_book">Delete the book</string>
+    <string name="subtitle_format">%1$d books</string>
+
+    <string name="list_empty">The list is empty.</string>
+    <string name="book_report_text">Send a read report</string>
+    <string name="book_report">%1$s The book was scheduled for reading %2$s and %3$s</string>
+    <string name="book_report_readed">the book is read</string>
+    <string name="book_report_unreaded">the book is not read</string>
+    <string name="book_report_subject">BookDepository read report</string>
+    <string name="send_report">Send a read report through</string>
+    <string name="book_gallery_subject">BookDepository open image</string>
+    <string name="book_gallery">Open image</string>
+    <string name="request_read_external_storage_permission">Grant storage permission to open the image from the gallery.</string>
+    <string name="no_photo">No image</string>
+    <string name="todo">TODO</string>
+
+
+
+</resources>
